@@ -14,6 +14,12 @@ Python modules:
 
 - python-slugify==4.0.1
 
+** Shebang
+
+#+BEGIN_SRC sh :tangle src/ckfork.sh
+#!/bin/bash
+#+END_SRC
+
 ** Lab dir
 
 #+BEGIN_SRC sh :tangle src/ckfork.sh
